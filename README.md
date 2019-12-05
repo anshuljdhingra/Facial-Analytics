@@ -6,11 +6,11 @@ The program uses Pygnder in order to predict age and gender of a person through 
 The code has been implemented with Flask.
 
 Code Requirements -
-Tensorflow
-Keras
-Scikit Learn
-Flask
-PIL
-CV2
+Tensorflow,
+Keras,
+Scikit Learn,
+Flask,
+PIL,
+CV2,
 Pygender
 
